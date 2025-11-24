@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+language-tool-python
+vaderSentiment
+sentence-transformers
+nltk
