@@ -1,6 +1,6 @@
 AI Communication Scorer
 
-An AI-powered tool that automatically evaluates a student's self-introduction speech based on a rubric inspired by Nirmaan Foundation’s communication skills framework.
+An AI-powered tool that automatically evaluates a student's self-introduction speech based on a rubric with communication skills framework.
 
 This project combines:
 
@@ -173,5 +173,5 @@ Real-time scoring during practice sessions
 
 📝 Author
 
-Developed as part of the Nirmaan Foundation AI Internship Case Study.
+Developed as part of the Nirmaan Foundation AI Case Study.
 
